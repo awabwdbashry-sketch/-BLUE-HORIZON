@@ -151,7 +151,7 @@ index.html
 
 ## 👨‍💻 المطور
 
-**Awab W. Bashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🎨 Front-End Developer  
@@ -319,7 +319,7 @@ Or run the project using Live Server in VS Code.
 
 ## 👨‍💻 Developer
 
-**Awab W. Bashry**
+**Awab Bashary | AwabBuilds**
 
 💻 Web Developer  
 🎨 Front-End Developer  
